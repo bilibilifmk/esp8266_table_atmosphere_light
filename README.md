@@ -1,6 +1,6 @@
 # esp8266_table_atmosphere_light
 # 基于ESP8266开发的桌下氛围灯 （ws2812b灯带） 断电后会保存当前设置状态 （配合智能插座使用）
-
+# 视频：https://www.bilibili.com/video/BV1Zg411M7rR/
 ## 环境
 * Arduino 
 * wifi_link_tool (https://github.com/bilibilifmk/wifi_link_tool)
